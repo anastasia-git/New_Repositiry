@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Minor 3 
+=======
+TANYA THE BEST OF THE BEST
+>>>>>>> 2225cddfbd38daf1b94afda7c1c06fe5e80bd6c6
